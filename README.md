@@ -1,4 +1,4 @@
-Olá! 👋 Este projeto foi desenvolvido durante o 2º período para a disciplina de AEDS II.
+Olá! 👋 Este projeto foi desenvolvido em dupla com a **Maria Cláudia Pio Ramos** durante o 2º período para a disciplina de AEDS II.
 
 Neste trabalho fomos desafiados a implementarmos, analisarmos e compararmos o desempenho de três algoritmos de ordenação fundamentais: **Bubble Sort**, **Merge Sort** e **Radix Sort**. O objetivo era processar um grande conjunto de dados de jogadores de futebol a partir de um arquivo CSV, normalizando e ordenando as informações baseado em determinados critérios, e então extrair métricas de desempenho empíricas (tempo de execução, alocação de memória, número de comparações e trocas).
 
@@ -12,3 +12,4 @@ Neste trabalho fomos desafiados a implementarmos, analisarmos e compararmos o de
 ### 🛠️ Tecnologias
 - C
 - Make
+
