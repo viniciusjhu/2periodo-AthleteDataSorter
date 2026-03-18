@@ -1,15 +1,16 @@
-Olá! 👋 Este projeto foi desenvolvido em dupla com a **Maria Cláudia Pio Ramos** durante o 2º período para a disciplina de AEDS II.
+﻿OlÃ¡! ðŸ‘‹ Este projeto foi desenvolvido em dupla com a **Maria ClÃ¡udia Pio Ramos** durante o 2Âº perÃ­odo para a disciplina de AEDS II.
 
-Neste trabalho fomos desafiados a implementarmos, analisarmos e compararmos o desempenho de três algoritmos de ordenação fundamentais: **Bubble Sort**, **Merge Sort** e **Radix Sort**. O objetivo era processar um grande conjunto de dados de jogadores de futebol a partir de um arquivo CSV, normalizando e ordenando as informações baseado em determinados critérios, e então extrair métricas de desempenho empíricas (tempo de execução, alocação de memória, número de comparações e trocas).
+Neste trabalho fomos desafiados a implementarmos, analisarmos e compararmos o desempenho de trÃªs algoritmos de ordenaÃ§Ã£o fundamentais: **Bubble Sort**, **Merge Sort** e **Radix Sort**. O objetivo era processar um grande conjunto de dados de jogadores de futebol a partir de um arquivo CSV, normalizando e ordenando as informaÃ§Ãµes baseado em determinados critÃ©rios, e entÃ£o extrair mÃ©tricas de desempenho empÃ­ricas (tempo de execuÃ§Ã£o, alocaÃ§Ã£o de memÃ³ria, nÃºmero de comparaÃ§Ãµes e trocas).
 
-### 🚀 O que aprendi
-- **Manipulação de Arquivos e Strings em C:** Leitura, extração e parse de dados tabulares (CSV).
-- **Algoritmos de Ordenação:** Implementação prática e análise de complexidade empírica do Bubble Sort, Merge Sort e Radix Sort.
-- **Estruturas de Dados:** Uso de structs para modelagem de entidades complexas e organização em memória.
-- **Análise de Desempenho:** Mensuração de tempo de execução, contagem de comparações e trocas, e análise do tamanho das estruturas alocadas em memória.
-- **Engenharia de Software em C:** Modularização do código utilizando interfaces (`.h`) e implementações (`.c`) separadas, além do uso de Makefiles para orquestração e automação da compilação.
+### ðŸš€ O que aprendi
+- **ManipulaÃ§Ã£o de Arquivos e Strings em C:** Leitura, extraÃ§Ã£o e parse de dados tabulares (CSV).
+- **Algoritmos de OrdenaÃ§Ã£o:** ImplementaÃ§Ã£o prÃ¡tica e anÃ¡lise de complexidade empÃ­rica do Bubble Sort, Merge Sort e Radix Sort.
+- **Estruturas de Dados:** Uso de structs para modelagem de entidades complexas e organizaÃ§Ã£o em memÃ³ria.
+- **AnÃ¡lise de Desempenho:** MensuraÃ§Ã£o de tempo de execuÃ§Ã£o, contagem de comparaÃ§Ãµes e trocas, e anÃ¡lise do tamanho das estruturas alocadas em memÃ³ria.
+- **Engenharia de Software em C:** ModularizaÃ§Ã£o do cÃ³digo utilizando interfaces (`.h`) e implementaÃ§Ãµes (`.c`) separadas, alÃ©m do uso de Makefiles para orquestraÃ§Ã£o e automaÃ§Ã£o da compilaÃ§Ã£o.
 
-### 🛠️ Tecnologias
+### ðŸ› ï¸ Tecnologias
 - C
 - Make
+
 
